@@ -1,0 +1,13 @@
+Copyright 2013 Michael Fiedler <michael.fiedler87@gmx.de>
+
+Based on an answer by user 'codeape'[1] to a question by user 'Recursion'[2] on
+stackoverflow.com, see [3].
+
+  [1] http://stackoverflow.com/users/106534/recursion
+  [2] http://stackoverflow.com/users/3571/codeape
+  [3] http://stackoverflow.com/questions/2099666/tips-on-creating-rss-xml-easily-in-python
+
+These files may be distributed and/or modified under the terms of the Creative
+Commons Attribution-ShareAlike 3.0 Unported license[4].
+
+  [4] http://creativecommons.org/licenses/by-sa/3.0/
